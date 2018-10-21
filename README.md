@@ -10,5 +10,5 @@ After runnning the script test images are shown in a window with the detected bo
 Then you close the window and you can see the IOU, minimum IOU and average IOU so far.
 I'm not sure whether it works with test xml file which has mutiple boxes because I just run it with test xml file which has only single box but maybe it works.
 
-Second one is the scripts that just train your train your model, create svm file and show training and test score.
+Second one is the scripts that just train your model, create svm file and show training and test score.
 Maybe if you can't get 1 score among all items, your model will not work as you want.
