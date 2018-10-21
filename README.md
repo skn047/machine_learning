@@ -4,7 +4,7 @@ Now there are only 2 scripts about dlib.
 More scripts will be added soon.
 
 You can calculate IOU of your prediction made by your own detector and test xml file created using imglab with my first script.
-Just run "python handmade_test.py "your detector path" "your test folder path""in your terminal.
+Just run "python handmade_test.py "your detector path" "your test folder path"" in your terminal.
 Everytime you run this script you must change your test xml file path.
 After runnning the script test images are shown in a window with the detected box in pink and ground truth one in blue.
 Then you close the window and you can see the IOU, minimum IOU and average IOU so far.
