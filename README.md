@@ -1,6 +1,7 @@
 # machine_learning
 All scripts are about machine learning.
-Now there are only scripts about dlib.
+Now there are only 2 scripts about dlib.
+More scripts will be added soon.
 
 You can calculate IOU of your prediction made by your own detector and test xml file created using imglab with my first script.
 Just run "python handmade_test.py "your detector path" "your test folder path""in your terminal.
